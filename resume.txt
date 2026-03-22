@@ -1,0 +1,22 @@
+Name: Hrushikesh Bharat Kharade
+
+Education:
+B.E in Artificial Intelligence and Data Science (2024)
+
+Skills:
+Python, Machine Learning, Deep Learning, NLP, AWS, Data Analysis, Pandas, NumPy, Matplotlib, Prompt Engineering, Generative AI
+
+Projects:
+Secure Image Retrieval using Deep Learning and Encryption Algorithms
+Developed a secure image storage and retrieval system
+
+Experience:
+Software Engineer Intern
+Worked on Python development and machine learning models
+
+Certifications:
+AWS Training Program
+Machine Learning Projects
+
+Strengths:
+Problem solving, Quick learner, Team player
